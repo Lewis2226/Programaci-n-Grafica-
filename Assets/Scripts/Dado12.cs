@@ -14,9 +14,9 @@ public class Dado12 : MonoBehaviour
         Vector3[] vertices ={
             new Vector3 (-1,0, 0), // vertice 0
             new Vector3 (1,0, 0), // vertice 1
-            new Vector3 (2,0, 1.5f), // vertice 2
-            new Vector3 (-2,0, 1.5f), // vertice 3
-            new Vector3 (2,0, 2), // vertice 4
+            new Vector3 (1,0, 1.5f), // vertice 2
+            new Vector3 (-1,0, 1.5f), // vertice 3
+            new Vector3 (0,1, 0), // vertice 4
             new Vector3 (-2,0.6f, 0), // vertice 5
             new Vector3 (2,0.6f, 0), // vertice 6
             new Vector3 (-3,0.6f, 2.5f), // vertice 7
@@ -29,21 +29,21 @@ public class Dado12 : MonoBehaviour
             new Vector3 (3,0.8f, 3), // vertice 14
             new Vector3 (-1,1.4f, 0), // vertice 15
             new Vector3 (1,1.4f, 0), // vertice 16
-            new Vector3 (2,1.4f, 1.5f), // vertice 17
-            new Vector3 (-2,1.4f, 1.5f), // vertice 18
-            new Vector3 (2,1.4f, 2), // vertice 19
+            new Vector3 (1,1.4f, 1.5f), // vertice 17
+            new Vector3 (-1,1.4f, 1.5f), // vertice 18
+            new Vector3 (0,2.4f, 0), // vertice 19
 
         };
-        int[] triagles =
+        int[] triangles =
         {
               
              //Cara 0
-             0,4,1,
-             1,2,4,
              0,3,4,
+             1,4,2,
+             1,4,3,
             
              //Cara 1
-             0,0,0,
+             0,5,7,
              0,0,0,
              0,0,0,
 
@@ -93,15 +93,15 @@ public class Dado12 : MonoBehaviour
              0,0,0,
 
              //Cara 11
-             15,18,19,
+             15,17,19,
              15,19,16,
-             16,17,19,
+             16,19,18,
         };
 
         Mesh mesh = GetComponent<MeshFilter>().mesh;
         mesh.Clear();
         mesh.vertices = vertices;
-        mesh.triangles = triagles;
+        mesh.triangles = triangles;
         mesh.Optimize();
         mesh.RecalculateNormals();
     }

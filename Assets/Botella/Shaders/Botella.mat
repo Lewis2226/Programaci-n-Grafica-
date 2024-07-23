@@ -55,10 +55,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Power: 0.338
+    - _Power: 0.5
     - _QueueControl: 1
     - _QueueOffset: 50
     m_Colors:
-    - _Frenel_color: {r: 0.754717, g: 0.2171591, b: 0.2171591, a: 0.003921569}
+    - _Frenel_color: {r: 0.735849, g: 0.37718043, b: 0.6314502, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

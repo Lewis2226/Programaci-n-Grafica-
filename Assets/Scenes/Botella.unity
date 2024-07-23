@@ -584,11 +584,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.16
+      value: 0.36525095
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.21
+      value: 0.71428794
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -596,19 +596,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.8443637
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0.53577054
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -620,7 +620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: -64.792
       objectReference: {fileID: 0}
     - target: {fileID: -2408468830703388224, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -634,6 +634,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bottleSG_mesh (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4556653634434675266, guid: 5284e46aa81b9f44eb8bd5de0b7a7f3a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 63b9abd100fb674499af24010ad4da83, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

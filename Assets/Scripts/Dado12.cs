@@ -8,9 +8,5 @@ public class Dado12 : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

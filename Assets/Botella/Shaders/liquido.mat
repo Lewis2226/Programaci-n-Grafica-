@@ -40,7 +40,7 @@ Material:
     m_Floats:
     - _Limit: 0.5
     - _Liquid_Amount: 0.06
-    - _Middle_Amount: 0.072
+    - _Middle_Amount: 1
     - _QueueControl: 1
     - _QueueOffset: 0
     - _facing: 0

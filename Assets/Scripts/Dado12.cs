@@ -24,15 +24,17 @@ public class Dado12 : MonoBehaviour
           new Vector3 (0,0.6f, 1), // vertice 7
           new Vector3 (0,0.6f, -1), // vertice 8
           new Vector3 (0,.6f, 0), // vertice 9
-          new Vector3 (-1.5f,0.8f, 0), // vertice 10
-          new Vector3 (1.5f,0.8f, 0), // vertice 11
-          new Vector3 (0,0.8f, 1.5f), // vertice 12
-          new Vector3 (0,0.8f, -1.5f), // vertice 13
-          new Vector3 (0,.8f, 0), // vertice 14
-          new Vector3 (-.5f,1.4f, 0), // vertice 15
-          new Vector3 (.5f,1.4f, 0), // vertice 16
-          new Vector3 (0,1.4f, .5f), // vertice 17
-          new Vector3 (0,1.4f, -.5f), // vertice 18
+          //Invertidos de los anteriores
+          new Vector3 (0,0.8f, -1), // vertice 10
+          new Vector3 (0,0.8f, 1), // vertice 11
+          new Vector3 (-1,0.8f, 0), // vertice 12
+          new Vector3 (1,0.8f, -0), // vertice 13
+          new Vector3 (0,0.8f, 0), // vertice 14
+          //Invertidos de los primeros
+          new Vector3 (0,1.4f, -.5f), // vertice 15
+          new Vector3 (0,1.4f, .5f), // vertice 16
+          new Vector3 (.5f,1.4f, 0), // vertice 17
+          new Vector3 (-.5f,1.4f, 0), // vertice 18
           new Vector3 (0,1.4f, 0), // vertice 19
         };
 

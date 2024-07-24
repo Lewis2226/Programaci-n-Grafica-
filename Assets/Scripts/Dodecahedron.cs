@@ -16,26 +16,26 @@ public class Dodecahedron : MonoBehaviour
        
 
         Vector3[] vertices = {
-            new Vector3( 1,  1,  1),
-            new Vector3( 1,  1, -1),
-            new Vector3( 1, -1,  1),
-            new Vector3( 1, -1, -1),
-            new Vector3(-1,  1,  1),
-            new Vector3(-1,  1, -1),
-            new Vector3(-1, -1,  1),
-            new Vector3(-1, -1, -1),
-            new Vector3( 0,  1 / phi,  phi),
-            new Vector3( 0,  1 / phi, -phi),
-            new Vector3( 0, -1 / phi,  phi),
-            new Vector3( 0, -1 / phi, -phi),
-            new Vector3( 1 / phi,  phi,  0),
-            new Vector3( 1 / phi, -phi,  0),
-            new Vector3(-1 / phi,  phi,  0),
-            new Vector3(-1 / phi, -phi,  0),
-            new Vector3( phi,  0,  1 / phi),
-            new Vector3( phi,  0, -1 / phi),
-            new Vector3(-phi,  0,  1 / phi),
-            new Vector3(-phi,  0, -1 / phi),
+            new Vector3( 1,  1,  1), //0
+            new Vector3( 1,  1, -1), //1
+            new Vector3( 1, -1,  1), //2
+            new Vector3( 1, -1, -1), //3
+            new Vector3(-1,  1,  1), //4
+            new Vector3(-1,  1, -1), //5
+            new Vector3(-1, -1,  1), //6
+            new Vector3(-1, -1, -1), //7
+            new Vector3( 0,  1 / phi,  phi), //8
+            new Vector3( 0,  1 / phi, -phi), //9
+            new Vector3( 0, -1 / phi,  phi), //10
+            new Vector3( 0, -1 / phi, -phi), //11
+            new Vector3( 1 / phi,  phi,  0), //12
+            new Vector3( 1 / phi, -phi,  0), //13
+            new Vector3(-1 / phi,  phi,  0), //14
+            new Vector3(-1 / phi, -phi,  0), //15
+            new Vector3( phi,  0,  1 / phi), //16
+            new Vector3( phi,  0, -1 / phi), //17
+            new Vector3(-phi,  0,  1 / phi), //18
+            new Vector3(-phi,  0, -1 / phi), //19
         };
 
 
@@ -43,8 +43,8 @@ public class Dodecahedron : MonoBehaviour
           {
 
            // Cara 1 base 
-           0, 3, 4,
-           0, 4, 2,
+           4, 3, 0,
+           4, 0, 2,
            1, 4, 2,
 
            // Cara 2 lado  de 0 a 1
@@ -58,18 +58,18 @@ public class Dodecahedron : MonoBehaviour
            2,8,7,
             
            // Cara 5 lado de 2 a 3
-            2,6,8,
-            2,8,3,
-            3,8,9,
+           3,6,8,
+           3,8,2,
+           2,8,9,
             
            // Cara 6 lado de  3 a 4
-           3,8,9,
-           3,9,4,
-           4,9,10,
+           4,8,9,
+           4,9,3,
+           3,9,10,
 
            // Cara 3 lado  de 0 a 4
-           4,5,9,
-           4,9,0,
+           0,5,9,
+           0,9,4,
            0,9,8,
             
            // Cara 7 lado de 5 a 6
@@ -97,7 +97,7 @@ public class Dodecahedron : MonoBehaviour
            8,13,9,
            9,13,15,
              
-           // Cara 12 superior
+           // Cara 12 superior 
            15,17,19,
            15,19,16,
            16,19,18,

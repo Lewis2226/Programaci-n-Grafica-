@@ -37,62 +37,62 @@ public class Dado12 : MonoBehaviour
         int[] triangles =
         {
               
-             //Cara 0
+             //Cara 0 base
              0,3,4,
              0,4,2,
              1,4,3,
             
-             //Cara 1
+             //Cara 1 lado
              0,5,9,
              0,9,6,
              7,8,9,
 
-             //Cara 2
+             //Cara 2 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 3
+             //Cara 3 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 4
+             //Cara 4 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 5
+             //Cara 5 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 6
+             //Cara 6 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 7
+             //Cara 7 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 8
+             //Cara 8 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 9
+             //Cara 9 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 10
+             //Cara 10 lado
              0,0,0,
              0,0,0,
              0,0,0,
 
-             //Cara 11
+             //Cara 11 superior
              15,17,19,
              15,19,16,
              16,19,18,

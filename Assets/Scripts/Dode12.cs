@@ -12,30 +12,28 @@ public class Dode12 : MonoBehaviour
 
     private void CreateDodecahedro()
     {
-        float phi = (1 + Mathf.Sqrt(5)) / 2;
-       
-
+    
         Vector3[] vertices = {
-            new Vector3( 1,  1,  1), //0
-            new Vector3( 1,  1, -1), //1
-            new Vector3( 1, -1,  1), //2
-            new Vector3( 1, -1, -1), //3
-            new Vector3(-1,  1,  1), //4
-            new Vector3(-1,  1, -1), //5
-            new Vector3(-1, -1,  1), //6
-            new Vector3(-1, -1, -1), //7
-            new Vector3( 0,  1 / phi,  phi), //8
-            new Vector3( 0,  1 / phi, -phi), //9
-            new Vector3( 0, -1 / phi,  phi), //10
-            new Vector3( 0, -1 / phi, -phi), //11
-            new Vector3( 1 / phi,  phi,  0), //12
-            new Vector3( 1 / phi, -phi,  0), //13
-            new Vector3(-1 / phi,  phi,  0), //14
-            new Vector3(-1 / phi, -phi,  0), //15
-            new Vector3( phi,  0,  1 / phi), //16
-            new Vector3( phi,  0, -1 / phi), //17
-            new Vector3(-phi,  0,  1 / phi), //18
-            new Vector3(-phi,  0, -1 / phi), //19
+          new Vector3 (-.5f,0, 0), // vertice 0
+          new Vector3 (.5f,0, 0), // vertice 1
+          new Vector3 (0,0, .5f), // vertice 2
+          new Vector3 (0,0, -.5f), // vertice 3
+          new Vector3 (0,.5f, 0), // vertice 4
+          new Vector3 (-1,0.6f, 0), // vertice 5
+          new Vector3 (1,0.6f, 0), // vertice 6
+          new Vector3 (0,0.6f, 1), // vertice 7
+          new Vector3 (0,0.6f, -1), // vertice 8
+          new Vector3 (0,1.1f, 0), // vertice 9
+          new Vector3 (-1.5f,0.8f, 0), // vertice 10
+          new Vector3 (1.5f,0.8f, 0), // vertice 11
+          new Vector3 (0,0.8f, 1.5f), // vertice 12
+          new Vector3 (0,0.8f, -1.5f), // vertice 13
+          new Vector3 (0,1.3f, 0), // vertice 14
+          new Vector3 (-2,1.4f, 0), // vertice 15
+          new Vector3 (2,1.4f, 0), // vertice 16
+          new Vector3 (0,1.4f, 2), // vertice 17
+          new Vector3 (0,1.4f, -2), // vertice 18
+          new Vector3 (0,1.9f, 0), // vertice 19
         };
 
 
@@ -43,14 +41,14 @@ public class Dode12 : MonoBehaviour
           {
 
            // Cara 1 base 
-           4, 3, 0,
-           4, 0, 2,
-           1, 4, 2,
+           4, 3, 2,
+           4, 1, 2,
+           3, 0, 2,
 
            // Cara 2 lado  de 0 a 1
-           0,7,8,
-           0,8,1,
-           1,8,5,
+           1,6,5,
+           0,5,1,
+           1,7,5,
            
            // Cara 4 lado de 1 a 2
            1,6,8,

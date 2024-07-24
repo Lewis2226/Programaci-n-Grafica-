@@ -14,68 +14,70 @@ public class Dad012 : MonoBehaviour
     {
     
         Vector3[] vertices = {
-          new Vector3 (-.5f,0, 0), // vertice 0
-          new Vector3 (.5f,0, 0), // vertice 1
-          new Vector3 (0,0, .5f), // vertice 2
-          new Vector3 (0,0, -.5f), // vertice 3
-          new Vector3 (0,.5f, 0), // vertice 4
+          new Vector3 (0,1.4f, .5f), // vertice 0
+          new Vector3 (.5f,1.4f, .1f), // vertice 1
+          new Vector3 (.3f,1.4f, -.5f), // vertice 2
+          new Vector3 (-.3f,1.4f, -.5f), // vertice 3
+          new Vector3 (-.5f,1.4f, .1f), // vertice 4
+          
+          new Vector3 (0,0.8f, .8f), // vertice 5
+          new Vector3 (.8f,0.8f, .2f), // vertice 6
+          new Vector3 (.5f,0.8f, -.8f), // vertice 7
+          new Vector3 (-.5f,0.8f, -.8f), // vertice 8
+          new Vector3 (-.8f,0.8f, .2f), // vertice 9
 
-          new Vector3 (-1,0.6f, 0), // vertice 5
-          new Vector3 (1,0.6f, 0), // vertice 6
-          new Vector3 (0,0.6f, 1), // vertice 7
-          new Vector3 (0,0.6f, -1), // vertice 8
-          new Vector3 (0,.6f, 0), // vertice 9
+          new Vector3 (0,0.6f, -.8f),  // vertice 10
+          new Vector3 (-.8f,0.6f, -.2f),  // vertice 11
+          new Vector3 (-.5f,0.6f, .8f), // vertice 12
+          new Vector3 (.5f,0.6f, .8f), // vertice 13
+          new Vector3 (.8f,0.6f, -.2f), // vertice 14
 
-          new Vector3 (0,0.8f, -1), // vertice 10
-          new Vector3 (0,0.8f, 1), // vertice 11
-          new Vector3 (1,0.8f, 0), // vertice 12
-          new Vector3 (-1,0.8f, 0), // vertice 13
-          new Vector3 (0,0.8f, 0), // vertice 14
-
-          new Vector3 (0,1.4f, -.5f), // vertice 15
-          new Vector3 (0,1.4f, .5f), // vertice 16
-          new Vector3 (.5f,1.4f, 0), // vertice 17
-          new Vector3 (-.5f,1.4f, 0), // vertice 18
-          new Vector3 (0,1.4f, 0), // vertice 19
+          new Vector3 (0,0, -.5f), // vertice 15
+          new Vector3 (-.5f,0, -.1f), // vertice 16
+          new Vector3 (-.3f,0, .5f), // vertice 17
+          new Vector3 (.3f,0, .5f), // vertice 18
+          new Vector3 (.5f,0, -.1f), // vertice 19
+          
         };
 
 
         int[] triangles = new int[]
           {
-           // Cara 1 base
-           4,3,2,
-           4,2,1,
-           1,0,2,
+           // Cara 1 superior
+           0,1,2,
+           0,2,3,
+           0,3,4,
            
+
            //Cara 2 lado 0 a 1
-           0,7,8,
-           0,8,6,
-           1,8,5,
+           13,0,5,
+           13,1,0,
+           13,6,1,
            
            //Cara 3 lado 0 a 4
-           0,5,9,
-           0,9,4,
-           4,9,8,
+           12,4,9,
+           12,0,4,
+           12,5,0,
            
            //Cara 4 lado 1 a 2
-           1,6,8,
-           1,8,2,
-           2,8,7,
+           14,1,6,
+           14,2,1,
+           14,7,2,
            
            //Cara 5 lado 2 a 3
-           2,6,8,
-           2,8,3,
-           3,8,9,
+           10,2,7,
+           10,3,2,
+           10,8,3,
            
            //Cara 6 lado 3 a 4
-           3,8,9,
-           3,9,4,
-           4,9,10,
+           11,3,8,
+           11,4,3,
+           11,9,4,
            
            //Cara 7 lado 5 a 6
-           5,11,10,
-           5,10,6,
-           6,10,12,
+           9,10,15,
+           9,10,6,
+           9,10,12,
            
            //Cara 8 lado 5 a 9
            5,12,13,
@@ -97,11 +99,11 @@ public class Dad012 : MonoBehaviour
            8,13,9,
            9,13,15,
            
-           //Cara 12 superior
-           15,17,19,
-           15,19,16,
-           16,19,18,
-
+           //Cara 12 base
+           15,17,16,
+           15,18,17,
+           15,19,18,
+           
           };
 
         Mesh mesh = GetComponent<MeshFilter>().mesh;

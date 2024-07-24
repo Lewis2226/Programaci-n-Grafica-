@@ -838,7 +838,7 @@ Transform:
   m_GameObject: {fileID: 1439076613}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.7059913, y: 2.067, z: -11}
+  m_LocalPosition: {x: 1.7059913, y: 2.067, z: -6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -892,6 +892,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8091868937344573378, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1b3dad8bee449ee4888bada2b3fd9e2b, type: 2}
     - target: {fileID: -3067006302140614057, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -900,14 +904,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Caja leche
       objectReference: {fileID: 0}
+    - target: {fileID: 5302709690568644713, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5307447101361939414, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 18edcc42084a94b4fba5eb0ad11d98e7, type: 2}
+    - target: {fileID: 6039141190867956575, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1b3dad8bee449ee4888bada2b3fd9e2b, type: 2}
     - target: {fileID: 7448758700244767340, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 18edcc42084a94b4fba5eb0ad11d98e7, type: 2}
+    - target: {fileID: 8660374583078246055, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5a5bfab624c8ddc4cb843bf9012ae60a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

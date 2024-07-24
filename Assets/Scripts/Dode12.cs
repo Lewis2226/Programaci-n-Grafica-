@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(MeshFilter))]
 [RequireComponent(typeof(MeshRenderer))]
-public class Dodecahedron : MonoBehaviour
+public class Dode12 : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -111,6 +111,4 @@ public class Dodecahedron : MonoBehaviour
         mesh.Optimize();
         mesh.RecalculateNormals();
      }
-
-    
 }

@@ -294,7 +294,7 @@ PrefabInstance:
     - target: {fileID: -3067006302140614057, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 84531ea4b8f31b24da422bf58eb7cfa4, type: 2}
+      objectReference: {fileID: 2100000, guid: d93e0751d340d65489be1aba6c28ea23, type: 2}
     - target: {fileID: 919132149155446097, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: m_Name
       value: Caja leche (1)
@@ -307,6 +307,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 1b3dad8bee449ee4888bada2b3fd9e2b, type: 2}
+    - target: {fileID: 7448758700244767340, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 945c9c1b6800d8f41becaf71ac6d8668, type: 2}
     - target: {fileID: 8660374583078246055, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 

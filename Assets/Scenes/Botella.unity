@@ -896,6 +896,18 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 1b3dad8bee449ee4888bada2b3fd9e2b, type: 2}
+    - target: {fileID: -3616495869481753481, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 99.33515
+      objectReference: {fileID: 0}
+    - target: {fileID: -3616495869481753481, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.036679685
+      objectReference: {fileID: 0}
+    - target: {fileID: -3616495869481753481, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.26241815
+      objectReference: {fileID: 0}
     - target: {fileID: -3067006302140614057, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -904,6 +916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Caja leche
       objectReference: {fileID: 0}
+    - target: {fileID: 1387577764589329806, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.1822511
+      objectReference: {fileID: 0}
     - target: {fileID: 5302709690568644713, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -911,7 +927,7 @@ PrefabInstance:
     - target: {fileID: 5307447101361939414, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 18edcc42084a94b4fba5eb0ad11d98e7, type: 2}
+      objectReference: {fileID: 2100000, guid: a0dc2373ea7c9b14fa273514528e6c27, type: 2}
     - target: {fileID: 6039141190867956575, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 

@@ -17,14 +17,18 @@ public class FlaurosMesh : MonoBehaviour
 
         int[] triangles = {
             
-            //Abajo
-            0,1,3,
-            //Lado 1
-            0,2,1,
-            //Lado 2
+            //Cara 0 Lado 
+            3,1,0,
+          
+            //Cara 1 base
+            1,2,0,
+            
+            //Cara 2 Lado 2
             1,3,2,
-            //Lado 3
+
+            //Cara 3 Lado 3
             2,3,0,
+          
         };
 
 

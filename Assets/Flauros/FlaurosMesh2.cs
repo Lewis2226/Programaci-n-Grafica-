@@ -8,27 +8,35 @@ public class FlaurosMesh2 : MonoBehaviour
     {
        
         Vector3[] vertices = {
-          new Vector3(1, 0, 0),
-          new Vector3(0, 0, 1),
-          new Vector3(-1, 0, 0),
-          new Vector3(0, 1, 0),
+          new Vector3(1, 0, 0), //0
+          new Vector3(0, 0, 1), //1
+          new Vector3(-1, 0, 0),//2
+          new Vector3(1, 0, 0),//3
+          new Vector3(0, 1, 0), //4
+          new Vector3(0, -1, 0),//5
+          
 
         };
 
         int[] triangles = {
            
-            //Cara 0 Lado 
+            //Cara 0 Lado sub
             3,1,0,
           
-            //Cara 1 base
-            1,2,0,
-            
-            //Cara 2 Lado 2
+            /*
+            //Cara 1 Lado 1 sub
             1,3,2,
-
-            //Cara 3 Lado 3
-            2,3,0,
-
+            
+            
+            //Cara 2 Lado 2 sub
+            5,3,1,
+            
+            // Cara 3 Lado sub
+            2,3,5,
+            /*
+            //Cara 4 Lado 1 inf
+            0,1,4,
+            */
         };
 
         /*

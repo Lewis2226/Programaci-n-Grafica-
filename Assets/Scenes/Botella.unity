@@ -294,7 +294,7 @@ PrefabInstance:
     - target: {fileID: -3067006302140614057, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: d93e0751d340d65489be1aba6c28ea23, type: 2}
+      objectReference: {fileID: -876546973899608171, guid: b750e79b152f5bc41abfa588dbdddbd1, type: 3}
     - target: {fileID: 919132149155446097, guid: 259695a4ee7ff644ba5ae8cdbbd7ffa0, type: 3}
       propertyPath: m_Name
       value: Caja leche (1)

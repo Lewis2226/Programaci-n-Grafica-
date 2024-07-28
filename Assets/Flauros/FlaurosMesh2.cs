@@ -81,7 +81,7 @@ public class FlaurosMesh2 : MonoBehaviour
         mesh.Clear();
         mesh.vertices = vertices;
         mesh.triangles = triangles;
-        mesh.uv = uvs;
+       // mesh.uv = uvs;
         mesh.Optimize();
         mesh.RecalculateNormals();
     }

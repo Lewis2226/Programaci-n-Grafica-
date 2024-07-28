@@ -53,35 +53,24 @@ public class FlaurosMesh2 : MonoBehaviour
 
         };
 
-        /*
+        
         Vector2[] uvs = {
-            new Vector2(0, 0.66f),
-            new Vector2(0.25f, 0.66f),
-            new Vector2(0, 0.33f),
-            new Vector2(0.25f, 0.33f),
-
-            new Vector2(0.5f, 0.66f),
-            new Vector2(0.5f, 0.33f),
-            new Vector2(0.75f, 0.66f),
-            new Vector2(0.75f, 0.33f),
-
-            new Vector2(1, 0.66f),
-            new Vector2(1, 0.33f),
-
-            new Vector2(0.25f, 1),
-            new Vector2(0.5f, 1),
-
-            new Vector2(0.25f, 0),
-            new Vector2(0.5f, 0),
+            new Vector2(0.10f, 0.25f),
+            new Vector2(0.25f, 0.30f),
+            new Vector2(0.30f, 0.45f),
+            new Vector2(0.50f, 0.45f),
+            new Vector2(0.50f, 0.30f),
+            new Vector2(0.60f, 0.45f),
+ 
         };
-        */
+        
         
 
         Mesh mesh = GetComponent<MeshFilter>().mesh;
         mesh.Clear();
         mesh.vertices = vertices;
         mesh.triangles = triangles;
-       // mesh.uv = uvs;
+        mesh.uv = uvs;
         mesh.Optimize();
         mesh.RecalculateNormals();
     }

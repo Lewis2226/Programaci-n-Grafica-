@@ -53,7 +53,7 @@ public class FlaurosMesh2 : MonoBehaviour
 
         };
 
-        /*
+        
         Vector2[] uvs = {
             new Vector2(0, 0.66f),
             new Vector2(0.25f, 0.66f),
@@ -74,13 +74,13 @@ public class FlaurosMesh2 : MonoBehaviour
             new Vector2(0.25f, 0),
             new Vector2(0.5f, 0),
         };
-        */
+        
 
         Mesh mesh = GetComponent<MeshFilter>().mesh;
         mesh.Clear();
         mesh.vertices = vertices;
         mesh.triangles = triangles;
-        //mesh.uv = uvs;
+        mesh.uv = uvs;
         mesh.Optimize();
         mesh.RecalculateNormals();
     }

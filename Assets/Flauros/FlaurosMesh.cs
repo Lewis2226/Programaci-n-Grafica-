@@ -19,25 +19,26 @@ public class FlaurosMesh : MonoBehaviour
             
             //Cara 0 Lado 
             3,1,0,
-          
-            //Cara 1 base
-            1,2,0,
-            
-            //Cara 2 Lado 2
+
+            //Cara 1 Lado 
             1,3,2,
 
-            //Cara 3 Lado 3
+            //Cara 2 Lado 
             2,3,0,
+          
+            //Cara 3 base
+            1,2,0,
+            
+           
           
         };
 
 
         Vector2[] uvs = {
-            
-            new Vector2(0.10f, 0.28f),
-            new Vector2(0.25f, 0.33f),
-            new Vector2(0.10f, 0.78f),
-            new Vector2(0.28f, 0.58f),
+            new Vector2(0.10f, 0.33f),
+            new Vector2(0.15f, 0.35f),
+            new Vector2(0.25f, 0.58f),
+            new Vector2(0.28f, 0.28f),
 
         };
        

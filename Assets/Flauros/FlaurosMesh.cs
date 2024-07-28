@@ -33,26 +33,12 @@ public class FlaurosMesh : MonoBehaviour
 
 
         Vector2[] uvs = {
+            
             new Vector2(0.10f, 0.28f),
+            new Vector2(0.25f, 0.33f),
             new Vector2(0.10f, 0.78f),
             new Vector2(0.28f, 0.58f),
-            new Vector2(0.25f, 0.33f),
 
-            /*
-            new Vector2(0.5f, 0.66f),
-            new Vector2(0.5f, 0.33f),
-            new Vector2(0.75f, 0.66f),
-            new Vector2(0.75f, 0.33f),
-
-            new Vector2(1, 0.66f),
-            new Vector2(1, 0.33f),
-
-            new Vector2(0.25f, 1),
-            new Vector2(0.5f, 1),
-
-            new Vector2(0.25f, 0),
-            new Vector2(0.5f, 0),
-            */
         };
        
 

@@ -3,7 +3,7 @@ using System.Collections;
 
 [RequireComponent(typeof(MeshFilter))]
 [RequireComponent(typeof(MeshRenderer))]
-public class UVMapping : MonoBehaviour
+public class UVMapping2 : MonoBehaviour
 {
 
     void Start()

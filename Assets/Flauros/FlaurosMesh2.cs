@@ -53,7 +53,7 @@ public class FlaurosMesh2 : MonoBehaviour
 
         };
 
-        
+        //Son iguales al numero de vertices de las caras pero solo en u  y v
         Vector2[] uvs = {
             new Vector2(0.10f, 0.25f),
             new Vector2(0.25f, 0.30f),

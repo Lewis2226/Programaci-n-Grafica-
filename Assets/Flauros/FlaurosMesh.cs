@@ -8,10 +8,10 @@ public class FlaurosMesh : MonoBehaviour
     {
         
         Vector3[] vertices = {
-            new Vector3(1, 0, 0),
-            new Vector3(0, 0, 1),
-            new Vector3(-1, 0, 0),
-            new Vector3(0, 1, 0),
+            new Vector3(.8f, 0, 0),
+            new Vector3(0, 0, .8f),
+            new Vector3(-.8f, 0, 0),
+            new Vector3(0, .8f, 0),
 
         };
 
@@ -37,8 +37,8 @@ public class FlaurosMesh : MonoBehaviour
         Vector2[] uvs = {
             new Vector2(0.15f, 0.28f),
             new Vector2(0.5f, 0.14f),
-            new Vector2(0.50f, 0.58f),
-            new Vector2(0.15f, 0.28f)
+            new Vector2(0.15f, 0.58f),
+            new Vector2(0.50f, 0.28f)
             , 
         };
        

@@ -6,15 +6,15 @@ public class FlaurosMesh : MonoBehaviour
 
     void Start()
     {
-        
+        float altura = Mathf.Sqrt(2f / 3f);
         Vector3[] vertices = {
-            new Vector3(.8f, 0, 0),
-            new Vector3(0, 0, .8f),
-            new Vector3(-.8f, 0, 0),
-            new Vector3(0, .8f, 0),
+            new Vector3(0, 0, 0),
+            new Vector3(1, 0, 0),
+            new Vector3(0.5f, 0, Mathf.Sqrt(0.75f)),
+            new Vector3(0.5f, altura, 0.5f / Mathf.Sqrt(3f)), 
             //Tengo 2 más para poder acomadar mejor el uv
-            new Vector3(0, .8f, 0), 
-            new Vector3(0, .8f, 0),
+            new Vector3(0.5f, altura, 0.5f / Mathf.Sqrt(3f)),
+            new Vector3(0.5f, altura, 0.5f / Mathf.Sqrt(3f)),
 
         };
 

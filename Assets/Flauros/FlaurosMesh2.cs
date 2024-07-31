@@ -8,11 +8,11 @@ public class FlaurosMesh2 : MonoBehaviour
     {
        
         Vector3[] vertices = {
-          new Vector3(0, 0, 1), //Vertice 0
+          new Vector3(0, 0, 1),  //Vertice 0
           new Vector3(1, 0, 0),  //Vertice 1
-          new Vector3(0, 1, 0), //Vertice 2
+          new Vector3(0, 1, 0),  //Vertice 2
           new Vector3(-1, 0, 0), //Vertice 3
-          new Vector3(0, 0, -1),//Vertice 4
+          new Vector3(0, 0, -1), //Vertice 4
           new Vector3(0, -1, 0), //Vertice 5
          
           //Tengo 4 más para poder acomadar mejor el uv

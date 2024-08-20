@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Limon
-  m_Shader: {fileID: 4800000, guid: 37b73ae027b1a9042b9a93b7397f3896, type: 3}
+  m_Name: Lemon
+  m_Shader: {fileID: 4800000, guid: e0b0c3adc09fd8d40b09d9effbf7171d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,19 +23,19 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _CutTex:
-        m_Texture: {fileID: 2800000, guid: c649e859238a03544878222a4c58d683, type: 3}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b819496de52301945937c819d8361ca5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c7489efde55e94a4b93269bf6118002b, type: 3}
+    - _PlaneTex:
+        m_Texture: {fileID: 2800000, guid: 62b9fd4c2a1de52489b6f847b8ea5401, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CutPosition: 0.5
-    - _CutThickness: 0
+    - _CircleRad: 0.423
+    - _Edge: 0.24
     m_Colors:
-    - _LemonColor: {r: 1, g: 1, b: 1, a: 1}
+    - _CircleCol: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

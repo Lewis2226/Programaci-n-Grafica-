@@ -1,4 +1,5 @@
 Shader "Unlit/USB_SDF_fruit."
+
 {
     Properties
     {
@@ -37,7 +38,7 @@ Shader "Unlit/USB_SDF_fruit."
                 return plane;
             }
 
-            #define MAX_MARCHING_5TEPS 50
+            #define MAX_MARCHING_STEPS 50
 
             #define MAX_DISTANCE 10.0
 
@@ -46,13 +47,13 @@ Shader "Unlit/USB_SDF_fruit."
             float sphereCasting(float3 ray_origin, float3 ray_direction)
             {
                float distance_origin =0;
-               for ( int = ; i < MAX_MARCHING_5TEPS; i++)
+               for ( int = 0; i < MAX_MARCHING_5TEPS; i++)
                {
                  float3 ray_position = ray_origin + ray_direction* distance_origin;
                  float distace_scene = planeSDF(ray_position);
                  distance_origin += distace_scene;
 
-                 if(distace_scene < SURFACE_DISTANCE || distance_origin > MAX_MARCHING_5TEPS);
+                 if(distace_scene < SURFACE_DISTANCE || distance_origin > MAX_MARCHING_STEPS);
                  break;
                }
                return distance_origin;
@@ -92,7 +93,7 @@ Shader "Unlit/USB_SDF_fruit."
 
                 float3 ray_direction = normalize(i.hitPos - ray_origin);
                 float t = sphereCasting (ray_origin, ray_direction);
-                float4´planeCol = 0;
+                float4 planeCol = 0;
                 float4 circleCol = 0;
                 if(t < MAX_DISTANCE)
                 {
@@ -110,12 +111,14 @@ Shader "Unlit/USB_SDF_fruit."
                   planeCol += (1 - circleCol) * _CircleCol;
                 }
                 
-                if (vertexPostion.y > _Edge)
+                if (i.hitPos.y > _Edge)
                 discard;
 
-                return face ? col : planeCol);
+                return face ? col : planeCol;
             }
             ENDCG
         }
     }
 }
+
+

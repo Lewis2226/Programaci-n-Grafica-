@@ -33,8 +33,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CircleRad: 0.423
-    - _Edge: 0.24
+    - _CircleRad: 0.417
+    - _Edge: 0.16
     m_Colors:
     - _CircleCol: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

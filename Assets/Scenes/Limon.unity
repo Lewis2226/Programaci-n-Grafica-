@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 438911495}
   - component: {fileID: 438911494}
   m_Layer: 0
-  m_Name: Test Limon
+  m_Name: ' Limon S'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

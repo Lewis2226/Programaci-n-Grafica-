@@ -33,7 +33,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CircleRad: 0.421
+    - _CircleRad: 0.5
     - _Edge: 0.1
     m_Colors:
     - _CircleCol: {r: 1, g: 0.9350046, b: 0.75, a: 1}

@@ -48,8 +48,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _circle_radius: 0.5
-    - _edge: 0.27
+    - _circle_radius: 0.362
+    - _edge: 0.41
     m_Colors:
     - _circle_color: {r: 0.41306755, g: 1, b: 0.1415093, a: 0}
     - _inColor: {r: 0.828472, g: 0.9150943, b: 0.53956026, a: 1}

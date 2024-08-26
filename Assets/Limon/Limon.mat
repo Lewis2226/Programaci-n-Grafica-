@@ -48,11 +48,11 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _circle_radius: 0.264
-    - _edge: 0.71
+    - _circle_radius: 0.307
+    - _edge: 0.41
     m_Colors:
     - _circle_color: {r: 0.41306755, g: 1, b: 0.1415093, a: 0}
-    - _inColor: {r: 0.9137255, g: 0.8591644, b: 0.5411765, a: 1}
+    - _inColor: {r: 0.8238993, g: 0.77296215, b: 0.47413066, a: 1}
     - _outColor: {r: 1, g: 0.57926995, b: 0.015723169, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

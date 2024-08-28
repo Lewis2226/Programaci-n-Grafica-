@@ -17,12 +17,6 @@
         },
         {
             "m_Id": "8d100d3a2809479da04c391402a70a36"
-        },
-        {
-            "m_Id": "11d5017a989049a3a44191586a8f0059"
-        },
-        {
-            "m_Id": "0d20aa7e775d418ebfaada01c0e08ffc"
         }
     ],
     "m_Keywords": [],
@@ -364,66 +358,6 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "SurfaceDescription.BaseColor"
-}
-
-{
-    "m_SGVersion": 3,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
-    "m_ObjectId": "0d20aa7e775d418ebfaada01c0e08ffc",
-    "m_Guid": {
-        "m_GuidSerialized": "dfbdee0e-3103-4895-905a-e2b8e2943328"
-    },
-    "m_Name": "ColorJoyas",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "ColorJoyas",
-    "m_DefaultReferenceName": "_ColorJoyas",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_DismissedVersion": 0,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "r": 15.12156867980957,
-        "g": 0.6274509429931641,
-        "b": 1.0621047019958497,
-        "a": 1.0
-    },
-    "isMainColor": false,
-    "m_ColorMode": 1
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty",
-    "m_ObjectId": "11d5017a989049a3a44191586a8f0059",
-    "m_Guid": {
-        "m_GuidSerialized": "11ceaef3-d444-4e21-bdf8-5bf9a02a9f1d"
-    },
-    "m_Name": "Joyas",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Joyas",
-    "m_DefaultReferenceName": "_Joyas",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_DismissedVersion": 0,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"7745aa28eb2214444b72da431f2eab7d\",\"type\":3}}",
-        "m_Guid": ""
-    },
-    "isMainTexture": false,
-    "useTilingAndOffset": false,
-    "m_Modifiable": true,
-    "m_DefaultType": 0
 }
 
 {
@@ -783,12 +717,6 @@
         },
         {
             "m_Id": "8d100d3a2809479da04c391402a70a36"
-        },
-        {
-            "m_Id": "11d5017a989049a3a44191586a8f0059"
-        },
-        {
-            "m_Id": "0d20aa7e775d418ebfaada01c0e08ffc"
         }
     ]
 }
@@ -878,7 +806,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 1.0,
-        "y": 0.0
+        "y": 0.5
     },
     "m_DefaultValue": {
         "x": 0.0,

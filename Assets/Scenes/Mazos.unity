@@ -170,6 +170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo dorado
       objectReference: {fileID: 0}
+    - target: {fileID: 2656529070399947304, guid: 20af5c6023ee2dd4eac5ee79e9e4ae99, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43165380fe619bb428777fcfa8fbcf64, type: 2}
     - target: {fileID: 6054140826855891635, guid: 20af5c6023ee2dd4eac5ee79e9e4ae99, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -653,6 +657,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo materia oscura
       objectReference: {fileID: 0}
+    - target: {fileID: 5065854492318003635, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f9dcb0d6e6b0994d898d073cf61e69c, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -896,6 +904,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo luz
       objectReference: {fileID: 0}
+    - target: {fileID: 1968043990485647819, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b0e33187e5121f4594bba90214abbc0, type: 2}
+    - target: {fileID: 5342156991223372029, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6054140826855891635, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b0e33187e5121f4594bba90214abbc0, type: 2}
+    - target: {fileID: 6969786185954095311, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43095f95cee570a409c44523f2eb385c, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

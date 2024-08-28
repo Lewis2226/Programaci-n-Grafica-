@@ -170,6 +170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo dorado
       objectReference: {fileID: 0}
+    - target: {fileID: 6054140826855891635, guid: 20af5c6023ee2dd4eac5ee79e9e4ae99, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43165380fe619bb428777fcfa8fbcf64, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -706,6 +710,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'mazo hielo '
       objectReference: {fileID: 0}
+    - target: {fileID: 2656529070399947304, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6939285c34ce4294daa2d284ce61ddc6, type: 2}
+    - target: {fileID: 6054140826855891635, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6939285c34ce4294daa2d284ce61ddc6, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -945,6 +957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo veneno
       objectReference: {fileID: 0}
+    - target: {fileID: 2656529070399947304, guid: 911e7aaef3f1706449005cccf96505d5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 148f2a925ee43704b91d96df7cba4ffb, type: 2}
     - target: {fileID: 3367648220178255670, guid: 911e7aaef3f1706449005cccf96505d5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 

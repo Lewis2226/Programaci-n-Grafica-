@@ -657,10 +657,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo materia oscura
       objectReference: {fileID: 0}
+    - target: {fileID: 2656529070399947304, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 672003fe44f5e33409e7d3ddfabe9f39, type: 2}
     - target: {fileID: 5065854492318003635, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 2f9dcb0d6e6b0994d898d073cf61e69c, type: 2}
+    - target: {fileID: 6054140826855891635, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 672003fe44f5e33409e7d3ddfabe9f39, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -860,6 +868,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8714360870330924268, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b0e33187e5121f4594bba90214abbc0, type: 2}
     - target: {fileID: -8679921383154817045, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
       propertyPath: m_LocalPosition.x
       value: 34.637047
@@ -908,6 +920,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 6b0e33187e5121f4594bba90214abbc0, type: 2}
+    - target: {fileID: 5065854492318003635, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9e346170a99401f4cbc35509d6e16a01, type: 2}
     - target: {fileID: 5342156991223372029, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
       propertyPath: m_IsActive
       value: 1

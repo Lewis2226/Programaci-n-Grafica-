@@ -56,10 +56,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha: 1
-    - _Gradiant: 5
+    - _Gradiant: 7
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 0.204
+    - _Speed: 0.14
     m_Colors:
     - _Color: {r: 6.9021025, g: 6.757556, b: 6.878699, a: 1}
   m_BuildTextureStacks: []

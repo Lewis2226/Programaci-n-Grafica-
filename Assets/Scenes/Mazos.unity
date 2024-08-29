@@ -1062,6 +1062,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo fantasma
       objectReference: {fileID: 0}
+    - target: {fileID: 2656529070399947304, guid: 475c2885c4e40b943a4cc62496805b92, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 364f7316aa850404bad7d3024147ae9e, type: 2}
+    - target: {fileID: 6054140826855891635, guid: 475c2885c4e40b943a4cc62496805b92, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 364f7316aa850404bad7d3024147ae9e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

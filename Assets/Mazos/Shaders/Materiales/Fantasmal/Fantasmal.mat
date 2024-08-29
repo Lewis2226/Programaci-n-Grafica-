@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2208761833330196919
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 9
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -20,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Materia oscura
-  m_Shader: {fileID: -6465566751694194690, guid: 6302c358a624ec94a837e6ecbca30f99, type: 3}
+  m_Name: Fantasmal
+  m_Shader: {fileID: -6465566751694194690, guid: 931afa2ff9aa8fc428f94258223dde9c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -38,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Textura:
-        m_Texture: {fileID: 2800000, guid: 56975ec03f7404b4ebf4912e9739b082, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9a075aefc49c0984280263decd27f995, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -55,16 +42,31 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Gradiant: 5
-    - _Power: 0.36
+    - _Alpha: 0
+    - _Gradiant: 10
+    - _Gradiant_1: 2.6
+    - _Power: 0.85
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 0.58
-    - _Speed2: 0.21
-    - _alpha: 1
+    - _Range: 1
+    - _Speed: 0.26
+    - _Speed_1: 0.89
+    - _alpha: 0.56
     m_Colors:
-    - _Color: {r: 0.07547045, g: 0.07547045, b: 8, a: 1}
-    - _Color_final: {r: 0.5, g: 0, b: 0.03885579, a: 1}
-    - _Color_interior: {r: 1, g: 0.625, b: 0, a: 1}
+    - _Color: {r: 0, g: 0.49999997, b: 0.105911486, a: 0.4862745}
+    - _Color_2: {r: 0.05742298, g: 0.005882349, b: 0.4882353, a: 0.4862745}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+--- !u!114 &793466848542824451
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

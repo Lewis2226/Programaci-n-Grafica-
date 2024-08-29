@@ -612,10 +612,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5104809409891484680, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1ac2d95c003f03f4a81a9dd66b019daa, type: 2}
+    - target: {fileID: -564171139693531394, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1ac2d95c003f03f4a81a9dd66b019daa, type: 2}
     - target: {fileID: 919132149155446097, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
       propertyPath: m_Name
       value: mazo antiguo
       objectReference: {fileID: 0}
+    - target: {fileID: 5065854492318003635, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1ac2d95c003f03f4a81a9dd66b019daa, type: 2}
+    - target: {fileID: 6054140826855891635, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 34343b3594930244bbad70f289e69d50, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

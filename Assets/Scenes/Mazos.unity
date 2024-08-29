@@ -235,6 +235,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo encantamiento
       objectReference: {fileID: 0}
+    - target: {fileID: 2656529070399947304, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e84ca0a36272e574eaee73a96c234317, type: 2}
+    - target: {fileID: 7208497089640642152, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e84ca0a36272e574eaee73a96c234317, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -943,7 +951,7 @@ PrefabInstance:
     - target: {fileID: 6969786185954095311, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 43095f95cee570a409c44523f2eb385c, type: 2}
+      objectReference: {fileID: 2100000, guid: de1e5f64f4902904fa38fefbb6ae52f7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

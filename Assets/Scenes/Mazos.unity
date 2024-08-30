@@ -357,6 +357,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo furistico
       objectReference: {fileID: 0}
+    - target: {fileID: 6054140826855891635, guid: fd8b2e8b5edf14e42a2193f275adc7a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1da95adbbcc2d6149a691daad8a07d2a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

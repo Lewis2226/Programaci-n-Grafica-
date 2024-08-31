@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Veneno
+  m_Name: Veneno 1
   m_Shader: {fileID: -6465566751694194690, guid: 44599d65f303c3d429fed80e7f290f4c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -46,16 +46,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Frenelpower: 0.577
-    - _Gradiant: 9.24
-    - _Gradiant_1: 6.3
+    - _Frenelpower: 0.67
+    - _Gradiant: 9.7
+    - _Gradiant_1: 10
     - _QueueControl: 0
     - _QueueOffset: 0
     - _alpha: 1
-    - _speed: 0.33
+    - _speed: 0.29
     m_Colors:
-    - _Color: {r: 0.049178872, g: 0.122641504, b: 0.036445353, a: 1}
-    - _Color_1: {r: 0.4163715, g: 2, b: 0.15723228, a: 1}
+    - _Color: {r: 0.2091195, g: 0.15152504, b: 0.033538, a: 1}
+    - _Color_1: {r: 0.35230225, g: 0.5, b: 0.041884806, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &725699507578982466

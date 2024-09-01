@@ -239,6 +239,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6204414278161312996, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: edb6762b81d8eed4386f1c8c7ac01d21, type: 2}
     - target: {fileID: 919132149155446097, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
       propertyPath: m_Name
       value: mazo encantamiento
@@ -247,6 +251,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: e84ca0a36272e574eaee73a96c234317, type: 2}
+    - target: {fileID: 5065854492318003635, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 58ac6d64cb8dd4741b5568471256f951, type: 2}
     - target: {fileID: 7208497089640642152, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -365,6 +373,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo furistico
       objectReference: {fileID: 0}
+    - target: {fileID: 5065854492318003635, guid: fd8b2e8b5edf14e42a2193f275adc7a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 58c863d858f5e274b8d0d9de72dad677, type: 2}
     - target: {fileID: 6054140826855891635, guid: fd8b2e8b5edf14e42a2193f275adc7a8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -778,6 +790,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 6939285c34ce4294daa2d284ce61ddc6, type: 2}
+    - target: {fileID: 5065854492318003635, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 743454a6ee7e6ce4aa536b33b8e277a2, type: 2}
     - target: {fileID: 6054140826855891635, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 

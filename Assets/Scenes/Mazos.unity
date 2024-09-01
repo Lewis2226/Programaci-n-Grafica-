@@ -174,6 +174,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo dorado
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 20af5c6023ee2dd4eac5ee79e9e4ae99, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: 20af5c6023ee2dd4eac5ee79e9e4ae99, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -247,6 +251,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo encantamiento
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -264,63 +272,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cec44ea0c2226c8499044b004e43af17, type: 3}
---- !u!1001 &791383092
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 47.988335
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.5029225
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -6.43092
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
-      propertyPath: m_Name
-      value: Card
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a6c6b68f837703548938d3c1706fa255, type: 3}
 --- !u!1001 &814110235
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -372,6 +323,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: fd8b2e8b5edf14e42a2193f275adc7a8, type: 3}
       propertyPath: m_Name
       value: mazo furistico
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fd8b2e8b5edf14e42a2193f275adc7a8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5065854492318003635, guid: fd8b2e8b5edf14e42a2193f275adc7a8, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -441,6 +396,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 681249942c0afbe458eba37ce6ee85db, type: 3}
       propertyPath: m_Name
       value: mazo slime
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 681249942c0afbe458eba37ce6ee85db, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: 681249942c0afbe458eba37ce6ee85db, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -652,6 +611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo antiguo
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5065854492318003635, guid: 4e2fec0da308c834a8e225378e9f89fb, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -716,6 +679,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
       propertyPath: m_Name
       value: mazo materia oscura
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: 2be0f3a5e5f702b4d9c5601f5d880e2c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -786,6 +753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'mazo hielo '
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -803,6 +774,79 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30d0a4deb5dbcfb49b1a97f33139666a, type: 3}
+--- !u!1001 &1745933317
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 479943512188782989, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.278468
+      objectReference: {fileID: 0}
+    - target: {fileID: 479943512188782989, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.6700373
+      objectReference: {fileID: 0}
+    - target: {fileID: 479943512188782989, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 479943512188782989, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0026
+      objectReference: {fileID: 0}
+    - target: {fileID: 4824067273014582561, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_Name
+      value: Cartas base
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 47.46656
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5029225
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.506154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5312372947433768859, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 10d8a60792b873640b24da5d6f0e2abd, type: 3}
 --- !u!1 &1817723927
 GameObject:
   m_ObjectHideFlags: 0
@@ -980,6 +1024,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo luz
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1968043990485647819, guid: dfc62964ed205154e8e78e55379d4864, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -1065,6 +1113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo veneno
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 911e7aaef3f1706449005cccf96505d5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: 911e7aaef3f1706449005cccf96505d5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -1138,6 +1190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mazo fantasma
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 475c2885c4e40b943a4cc62496805b92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2656529070399947304, guid: 475c2885c4e40b943a4cc62496805b92, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -1171,4 +1227,4 @@ SceneRoots:
   - {fileID: 1116803335}
   - {fileID: 1296299555}
   - {fileID: 814110235}
-  - {fileID: 791383092}
+  - {fileID: 1745933317}

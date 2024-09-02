@@ -9,9 +9,10 @@ Shader "Unlit/MaskSurface"
         Tags { "RenderType"="Opaque" }
         LOD 100
         ColorMask 0
+        Zwrite Off
     
         Stencil{
-            ref 1
+            ref 2
             comp always
             pass replace 
 

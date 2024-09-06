@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Carta efecto 1
+  m_Name: Carta espectral
   m_Shader: {fileID: -6465566751694194690, guid: d63565517542bb54580cb1e240de4473, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -38,7 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _FoildTex:
-        m_Texture: {fileID: 2800000, guid: b750a9232995a1248aaff270a62175ca, type: 3}
+        m_Texture: {fileID: 2800000, guid: 21d9fd78fe0d0c042990503ec6748304, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -62,9 +62,9 @@ Material:
     - _Gradiant: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _distortion: 10
-    - _offest: -0.4
+    - _distortion: 15.7
+    - _offest: 1.4
     m_Colors:
-    - _Color: {r: 0.3376198, g: 0.06132078, b: 1, a: 1}
+    - _Color: {r: 0.062745094, g: 1, b: 0.069698244, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

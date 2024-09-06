@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Carta veneno
+  m_Name: Carta especial 2
   m_Shader: {fileID: -6465566751694194690, guid: d63565517542bb54580cb1e240de4473, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -62,9 +62,9 @@ Material:
     - _Gradiant: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _distortion: 15.2
-    - _offest: 3.35
+    - _distortion: 37.7
+    - _offest: -0.4
     m_Colors:
-    - _Color: {r: 0.37005934, g: 0.6855345, b: 0.1746172, a: 1}
+    - _Color: {r: 0.60904205, g: 3.187224, b: 3.4213836, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

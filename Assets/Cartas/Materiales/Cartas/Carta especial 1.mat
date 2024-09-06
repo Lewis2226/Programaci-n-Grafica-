@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Carta efecto 2
+  m_Name: Carta especial 1
   m_Shader: {fileID: -6465566751694194690, guid: d63565517542bb54580cb1e240de4473, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -62,9 +62,9 @@ Material:
     - _Gradiant: 5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _distortion: 34.7
-    - _offest: 1.78
+    - _distortion: 22.91
+    - _offest: 1.05
     m_Colors:
-    - _Color: {r: 0.062745094, g: 1, b: 0.6968142, a: 1}
+    - _Color: {r: 1.7106918, g: 0.30452102, b: 0.32799307, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

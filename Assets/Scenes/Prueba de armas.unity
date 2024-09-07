@@ -118,6 +118,177 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &8684914
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 174436657931552195, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_Name
+      value: Espada corta luz
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 46.613464
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.584271
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.071322
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 657641663482650489, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7aac9c6e9468f28409be43d927dee96a, type: 3}
+--- !u!1001 &68178834
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3611186046866506595, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_Name
+      value: Espada Kriptonita (especial)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 48.043335
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8810191
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.7062545
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4131580139767273945, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d216dbf86d136b84d884e409fce3e500, type: 3}
+--- !u!1001 &110025458
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.510025
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5420072
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.428213
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687380157236243452, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4064467997590532422, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
+      propertyPath: m_Name
+      value: Espada corta materia oscura
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 71b3be4f0ebd77b47bf0c40348660876, type: 3}
 --- !u!1001 &155579931
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -558,6 +729,120 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4080f173e8aab441aa5479666fe6e60, type: 3}
+--- !u!1001 &462807563
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2430530140462955648, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_Name
+      value: Espada corta Dorada
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 46.98652
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0086474
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.1907673
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3094301584643647034, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c4961933c6b21f442916cb308a21306a, type: 3}
+--- !u!1001 &601364203
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 18577903912036831, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_Name
+      value: Espada corta hielo
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 49.06901
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0518758
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.203114
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 795395704287228773, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d1f71904bf2043341aedf1ddebfbe64b, type: 3}
 --- !u!1001 &659151393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -728,6 +1013,120 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66444b61f91e6fb418cf891ee4f9d1c8, type: 3}
+--- !u!1001 &750480247
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 40.899612
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0696754
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.5661702
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9743666
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.224966
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -26.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5859234194452144530, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6493063492702321448, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+      propertyPath: m_Name
+      value: Espada corta galaxia (especial 2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 898ff35bbc5ca6b429a66b5608fefb0d, type: 3}
+--- !u!1001 &860329314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 42.4955
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.197274
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.4987657
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8593631312265459814, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8937787675582259932, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
+      propertyPath: m_Name
+      value: Espada corta slime
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 161d01338fd366d48a8a76c2e2a2f24f, type: 3}
 --- !u!1001 &937983371
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1120,6 +1519,63 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!1001 &1544715608
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.077545
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.1009593
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5073742043845182117, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5558107339458549791, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
+      propertyPath: m_Name
+      value: Espada corta fantasmal
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6e19df8aa4b1a5a4dba4643d1312d430, type: 3}
 --- !u!1001 &1587096747
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1201,6 +1657,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 411efc2708dfee444af5af09a27f1536, type: 3}
+--- !u!1001 &1641563365
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2340892639052253169, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_Name
+      value: Espada corta veneno
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 40.470325
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.0855415
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.1958084
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114052085675007307, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd6b71f15ad36cb4b8d9a8dc683fdbe5, type: 3}
 --- !u!1 &1817723927
 GameObject:
   m_ObjectHideFlags: 0
@@ -1322,6 +1835,63 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+--- !u!1001 &2023349437
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 46.63768
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.148736
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381726610780835735, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870877706560443693, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
+      propertyPath: m_Name
+      value: Espada corta encatada
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5360b05627962d741b3bae6f8387e580, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1338,3 +1908,13 @@ SceneRoots:
   - {fileID: 163019529}
   - {fileID: 1060400525}
   - {fileID: 351325997}
+  - {fileID: 462807563}
+  - {fileID: 2023349437}
+  - {fileID: 1544715608}
+  - {fileID: 750480247}
+  - {fileID: 601364203}
+  - {fileID: 8684914}
+  - {fileID: 110025458}
+  - {fileID: 860329314}
+  - {fileID: 1641563365}
+  - {fileID: 68178834}

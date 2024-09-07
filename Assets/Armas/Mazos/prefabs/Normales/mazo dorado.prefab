@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7878487432924162448}
   - component: {fileID: 7700497228337009304}
   - component: {fileID: 9040895658704789220}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: "Empu\xF1adura"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,13 +95,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8596671351197553754}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8596671351197553754
 Transform:
   m_ObjectHideFlags: 0
@@ -129,7 +129,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1393531369546864474}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: mazo dorado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -167,7 +167,7 @@ GameObject:
   - component: {fileID: 3867205695907413950}
   - component: {fileID: 6128339274119901545}
   - component: {fileID: 6134886525219842975}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Gold SubParticle Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5000,7 +5000,7 @@ GameObject:
   - component: {fileID: 4971623963705685997}
   - component: {fileID: 5908352722686002969}
   - component: {fileID: 7613412320196744365}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Gold Particle Hit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5031,7 +5031,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4727977528577511206}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -5046,7 +5046,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 6
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -9834,7 +9834,7 @@ GameObject:
   - component: {fileID: 428462675330130719}
   - component: {fileID: 3964748719128795511}
   - component: {fileID: 2817421446587673095}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Gold Sub Particle Pre '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14667,7 +14667,7 @@ GameObject:
   - component: {fileID: 8591540131722803148}
   - component: {fileID: 6757760869091238382}
   - component: {fileID: 7124723929952986861}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Gold Sub Particle Hit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19518,7 +19518,7 @@ GameObject:
   - component: {fileID: 3774885578874670653}
   - component: {fileID: 7247481418997084134}
   - component: {fileID: 859067218981208691}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Gold Particle Pre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19549,7 +19549,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5906228224969252170}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -24361,7 +24361,7 @@ GameObject:
   - component: {fileID: 1431726608448051545}
   - component: {fileID: 2942907121197166765}
   - component: {fileID: 6542582678622218713}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Parte de abajo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24447,7 +24447,7 @@ GameObject:
   - component: {fileID: 6486254468296268943}
   - component: {fileID: 7575163419684295254}
   - component: {fileID: 965993672260858279}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24533,7 +24533,7 @@ GameObject:
   - component: {fileID: 8918929353589461669}
   - component: {fileID: 4435980775403186420}
   - component: {fileID: 7234762424411371524}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Gold Particle Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24564,7 +24564,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7627336800390941228}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -24579,7 +24579,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 10
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -29367,7 +29367,7 @@ GameObject:
   - component: {fileID: 5293156766494026428}
   - component: {fileID: 4933699398074151157}
   - component: {fileID: 1423148442259099705}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}

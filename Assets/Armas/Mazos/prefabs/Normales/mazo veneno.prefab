@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2543738205609648639}
   - component: {fileID: 8810956697011544913}
   - component: {fileID: 3628958301465429492}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ' Poison Particle  Pos'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 43097058702071337}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -57,7 +57,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 9
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -4845,7 +4845,7 @@ GameObject:
   - component: {fileID: 2016753226070818157}
   - component: {fileID: 4314347579059857714}
   - component: {fileID: 4287309792821014045}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Parte de abajo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4931,7 +4931,7 @@ GameObject:
   - component: {fileID: 6198352003895537421}
   - component: {fileID: 8803534397603157726}
   - component: {fileID: 5199088261401739124}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza lateral der
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5017,7 +5017,7 @@ GameObject:
   - component: {fileID: 3415214019065465484}
   - component: {fileID: 5982655917349832433}
   - component: {fileID: 8853781273168991829}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ' Poison SubParticle  Pre'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9908,7 +9908,7 @@ GameObject:
   - component: {fileID: 2025655956040888845}
   - component: {fileID: 6642343459693891316}
   - component: {fileID: 8056791564417156627}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9994,7 +9994,7 @@ GameObject:
   - component: {fileID: 5296917434074946251}
   - component: {fileID: 1342867906829309235}
   - component: {fileID: 5512249160958029870}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ' Poison Particle  Pre'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10025,7 +10025,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3365968609259724607}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -14828,7 +14828,7 @@ GameObject:
   - component: {fileID: 160421945527343748}
   - component: {fileID: 5444593808914272214}
   - component: {fileID: 4297473378318261518}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza lateral izq
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14914,7 +14914,7 @@ GameObject:
   - component: {fileID: 4309948330068628288}
   - component: {fileID: 4280870664104126794}
   - component: {fileID: 2640157013564879447}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ' Poison SubParticle  Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19745,13 +19745,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3604395460732363848}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3604395460732363848
 Transform:
   m_ObjectHideFlags: 0
@@ -19781,7 +19781,7 @@ GameObject:
   - component: {fileID: 3612701534176897320}
   - component: {fileID: 8288718683386059781}
   - component: {fileID: 4322970713772994187}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ' Poison SubParticle  Hit '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24672,7 +24672,7 @@ GameObject:
   - component: {fileID: 6744192384105057329}
   - component: {fileID: 6493320336488891123}
   - component: {fileID: 8737168745031280691}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza centro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24758,7 +24758,7 @@ GameObject:
   - component: {fileID: 2588428293980470095}
   - component: {fileID: 4557468520647050815}
   - component: {fileID: 7253145681009580680}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: "Empu\xF1adura"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24842,7 +24842,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3291693715752278175}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: mazo veneno
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24882,7 +24882,7 @@ GameObject:
   - component: {fileID: 4224568466956671836}
   - component: {fileID: 3300602035118269848}
   - component: {fileID: 8632713879365297175}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ' Poison Particle  Hit'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24913,7 +24913,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8975811190142422229}
   serializedVersion: 8
-  lengthInSec: 2
+  lengthInSec: 1.5
   simulationSpeed: 1.5
   stopAction: 0
   cullingMode: 0
@@ -24928,7 +24928,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 4
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2

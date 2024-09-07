@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4524088177312986940}
   - component: {fileID: 2263823363915145945}
   - component: {fileID: 614178354261002446}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 7918534556931172015}
   - component: {fileID: 9176825271583993227}
   - component: {fileID: 7022612519351691966}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Ligth Particle Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -128,7 +128,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 165042438868731865}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -143,7 +143,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 10
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -4940,7 +4940,7 @@ GameObject:
   - component: {fileID: 5572911937388523085}
   - component: {fileID: 5661584540521461105}
   - component: {fileID: 5880826033699604902}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5026,7 +5026,7 @@ GameObject:
   - component: {fileID: 8584754252311135746}
   - component: {fileID: 2857578014073835176}
   - component: {fileID: 2377685975982250311}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Ligth SubParticle Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9859,7 +9859,7 @@ GameObject:
   - component: {fileID: 7299079563000580826}
   - component: {fileID: 2468467656698748029}
   - component: {fileID: 6931822014954811875}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Ligth Particle Pre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9890,7 +9890,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3109261742642104789}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -14702,7 +14702,7 @@ GameObject:
   - component: {fileID: 1369629041797069983}
   - component: {fileID: 4988648470127231517}
   - component: {fileID: 6887630143146943478}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Ligth Particle Hit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14733,7 +14733,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3176987425847603216}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -14748,7 +14748,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 6
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -19534,13 +19534,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3751570061171232556}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3751570061171232556
 Transform:
   m_ObjectHideFlags: 0
@@ -19570,7 +19570,7 @@ GameObject:
   - component: {fileID: 7113611242915018785}
   - component: {fileID: 3653693917876027425}
   - component: {fileID: 4279168700018254783}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Ligth Sub Particle Pre '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24401,7 +24401,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3490150290357031604}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: mazo luz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24440,7 +24440,7 @@ GameObject:
   - component: {fileID: 4749103485661854472}
   - component: {fileID: 4614324623226104438}
   - component: {fileID: 968621538835005301}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: "Empu\xF1adura"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24526,7 +24526,7 @@ GameObject:
   - component: {fileID: 889452928095668369}
   - component: {fileID: 7516876530957222706}
   - component: {fileID: 5443935776636350750}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Luz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24612,7 +24612,7 @@ GameObject:
   - component: {fileID: 566208102290730976}
   - component: {fileID: 857316264595941916}
   - component: {fileID: 7565218923788775383}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Contendor de luz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24698,7 +24698,7 @@ GameObject:
   - component: {fileID: 190647276733241153}
   - component: {fileID: 8611592648733602264}
   - component: {fileID: 7073264940706198887}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Ligth Sub Particle Hit '
   m_TagString: Untagged
   m_Icon: {fileID: 0}

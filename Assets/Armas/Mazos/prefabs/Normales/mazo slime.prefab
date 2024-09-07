@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6846821221865675055}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: mazo slime
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 6482644824181050653}
   - component: {fileID: 2958036423230471102}
   - component: {fileID: 3535771291005044891}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Slim Particle Sub  Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4888,7 +4888,7 @@ GameObject:
   - component: {fileID: 2438725175782908901}
   - component: {fileID: 4077730861433946275}
   - component: {fileID: 8966510425164594522}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Slim Sub Particle  Pre '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9730,7 +9730,7 @@ GameObject:
   - component: {fileID: 6667828749130840909}
   - component: {fileID: 5171715898495095769}
   - component: {fileID: 7642178285476673654}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Slim Particle  Hit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9761,7 +9761,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2181650928269894278}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -9776,7 +9776,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 6
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -14578,7 +14578,7 @@ GameObject:
   - component: {fileID: 7968324312410433282}
   - component: {fileID: 4166955720654266341}
   - component: {fileID: 4888132979644326212}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Parte de abajo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14664,7 +14664,7 @@ GameObject:
   - component: {fileID: 3621711833812197759}
   - component: {fileID: 1080697563643962072}
   - component: {fileID: 8357195033140727811}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Cabeza '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14750,7 +14750,7 @@ GameObject:
   - component: {fileID: 4013750578266847519}
   - component: {fileID: 4113137033586686233}
   - component: {fileID: 6759506877981657302}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14836,7 +14836,7 @@ GameObject:
   - component: {fileID: 6399234463364590397}
   - component: {fileID: 3901416090964811843}
   - component: {fileID: 3728565282094305879}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Slim Particle  Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14867,7 +14867,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5152633214704653520}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -14882,7 +14882,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 10
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -19684,7 +19684,7 @@ GameObject:
   - component: {fileID: 8124846563693121345}
   - component: {fileID: 7796304370037388168}
   - component: {fileID: 7087502578422088774}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Slim  subParticle  Hit '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24526,7 +24526,7 @@ GameObject:
   - component: {fileID: 7241740095474415935}
   - component: {fileID: 8029086064045630618}
   - component: {fileID: 2647642992486951343}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Slim Particle  Pre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24557,7 +24557,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8286849267988401215}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -29358,13 +29358,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 968436789147688075}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &968436789147688075
 Transform:
   m_ObjectHideFlags: 0

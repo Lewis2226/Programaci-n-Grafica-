@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 65970871607529176}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'mazo hielo '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 6207738097634711168}
   - component: {fileID: 2086637624548021895}
   - component: {fileID: 6225066754926343265}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Parte de abajo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 4764848239673165737}
   - component: {fileID: 6730929339366641459}
   - component: {fileID: 4248853623157722403}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Ice Particle Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2173455010687776241}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -178,7 +178,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 10
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -4966,7 +4966,7 @@ GameObject:
   - component: {fileID: 8522589564869576981}
   - component: {fileID: 4250113764308372564}
   - component: {fileID: 2020897359159574981}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5052,7 +5052,7 @@ GameObject:
   - component: {fileID: 5657928155700718099}
   - component: {fileID: 3730371605258846154}
   - component: {fileID: 160111566013517496}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Ice SubParticle Pre '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9885,7 +9885,7 @@ GameObject:
   - component: {fileID: 2254983517611643600}
   - component: {fileID: 5319769374984184055}
   - component: {fileID: 8006614065706624755}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Ice SubParticle Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14718,7 +14718,7 @@ GameObject:
   - component: {fileID: 8208958892874123930}
   - component: {fileID: 7193255881834547532}
   - component: {fileID: 9107818662100050589}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Ice Sub Particle HIt '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19551,7 +19551,7 @@ GameObject:
   - component: {fileID: 8329919015801866195}
   - component: {fileID: 226284679896752823}
   - component: {fileID: 1618629050811994441}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19635,13 +19635,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3081934784979114782}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3081934784979114782
 Transform:
   m_ObjectHideFlags: 0
@@ -19671,7 +19671,7 @@ GameObject:
   - component: {fileID: 4288735918416104349}
   - component: {fileID: 5360922108890087419}
   - component: {fileID: 3332856242989577006}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Ice Particle Pre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19702,7 +19702,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7534341630000127283}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -24505,7 +24505,7 @@ GameObject:
   - component: {fileID: 204721925457870957}
   - component: {fileID: 6775953668067864447}
   - component: {fileID: 6869028821466543934}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Ice Particle HIt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24536,7 +24536,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7814807214468624874}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -24551,7 +24551,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 5
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1441718916553683225}
   - component: {fileID: 2416822612679461092}
   - component: {fileID: 432271711983466763}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Old  Sub Particle Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4862,7 +4862,7 @@ GameObject:
   - component: {fileID: 1187611116045467210}
   - component: {fileID: 2550100188086834300}
   - component: {fileID: 7300340443690263994}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Old Sub Particle Pre '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9695,7 +9695,7 @@ GameObject:
   - component: {fileID: 1270102652007124238}
   - component: {fileID: 6761325836701073671}
   - component: {fileID: 1221473332614669931}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9779,13 +9779,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3400692265100966763}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3400692265100966763
 Transform:
   m_ObjectHideFlags: 0
@@ -9815,7 +9815,7 @@ GameObject:
   - component: {fileID: 2270161927366292996}
   - component: {fileID: 272749848879774885}
   - component: {fileID: 5292727606048848907}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cuerda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9899,7 +9899,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7998194186453890367}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: mazo antiguo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9937,7 +9937,7 @@ GameObject:
   - component: {fileID: 424070622463824456}
   - component: {fileID: 7714165909826932668}
   - component: {fileID: 1771570741260190651}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Old Particle Hit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9968,7 +9968,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6411182701087315621}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -9983,7 +9983,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 6
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -14785,7 +14785,7 @@ GameObject:
   - component: {fileID: 5386757213303617717}
   - component: {fileID: 6239424641425960366}
   - component: {fileID: 999182670332934086}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Old Particle Pre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14816,7 +14816,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6842310171917464791}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -19619,7 +19619,7 @@ GameObject:
   - component: {fileID: 7225731734165205312}
   - component: {fileID: 1267721364514400691}
   - component: {fileID: 1566451044306169898}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19705,7 +19705,7 @@ GameObject:
   - component: {fileID: 8482177703040326443}
   - component: {fileID: 2858748853223597819}
   - component: {fileID: 5402406217086850531}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Old Particle Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19736,7 +19736,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7596507923765297504}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -19751,7 +19751,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 10
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -24548,7 +24548,7 @@ GameObject:
   - component: {fileID: 2248597441924567283}
   - component: {fileID: 7177393706493679447}
   - component: {fileID: 5465928489276355328}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Old  SubParticle Hit '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29381,7 +29381,7 @@ GameObject:
   - component: {fileID: 6564718049637150340}
   - component: {fileID: 2611638369876049481}
   - component: {fileID: 2966361521882622521}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cuerda.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}

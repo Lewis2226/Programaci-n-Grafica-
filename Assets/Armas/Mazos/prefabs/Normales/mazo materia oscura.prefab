@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4107976214702951632}
   - component: {fileID: 7665114608048759610}
   - component: {fileID: 8501504076466422665}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Dark Sub Particle Pos '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4853,7 +4853,7 @@ GameObject:
   - component: {fileID: 7415217925038832484}
   - component: {fileID: 2904037689785856030}
   - component: {fileID: 2732724278012808898}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Mango
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4939,7 +4939,7 @@ GameObject:
   - component: {fileID: 1832398995085291134}
   - component: {fileID: 8851293325532553314}
   - component: {fileID: 5896748198923224548}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Dark Particle Hit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4970,7 +4970,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3194278595830015765}
   serializedVersion: 8
-  lengthInSec: 4
+  lengthInSec: 1.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -4985,7 +4985,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 6
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -9773,7 +9773,7 @@ GameObject:
   - component: {fileID: 4600102970396843225}
   - component: {fileID: 2125020631203668245}
   - component: {fileID: 6796097159293769372}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Dark Particle Pos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9804,7 +9804,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3641993087272581036}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -9819,7 +9819,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 10
+    scalar: 2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -14616,7 +14616,7 @@ GameObject:
   - component: {fileID: 5938989739941663640}
   - component: {fileID: 2807163618644096237}
   - component: {fileID: 2699406823257147985}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cabeza
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14702,7 +14702,7 @@ GameObject:
   - component: {fileID: 5934402017389680580}
   - component: {fileID: 2777556171517013730}
   - component: {fileID: 4142776464217720930}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Dark Particle Pre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14733,7 +14733,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4575160914249850530}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -19545,7 +19545,7 @@ GameObject:
   - component: {fileID: 3638839725189641149}
   - component: {fileID: 136802024855468741}
   - component: {fileID: 5523744026269354526}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Dark Sub Particle Hit '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24387,7 +24387,7 @@ GameObject:
   - component: {fileID: 1686992797545166165}
   - component: {fileID: 6146305601093535557}
   - component: {fileID: 7935808139787407161}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: 'Dark Sub Particle Pre '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29229,7 +29229,7 @@ GameObject:
   - component: {fileID: 6333583696001302768}
   - component: {fileID: 5274804032527712583}
   - component: {fileID: 8521807941234483092}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Parte de abajo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29313,13 +29313,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6664855561592322102}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Particulas
   m_TagString: Untagged
   m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6664855561592322102
 Transform:
   m_ObjectHideFlags: 0
@@ -29347,7 +29347,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7414705203590609909}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: mazo materia oscura
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -239,6 +239,11 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+--- !u!1 &603977744 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4239701497700983587, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+  m_PrefabInstance: {fileID: 1362570627}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &950406595
 GameObject:
   m_ObjectHideFlags: 0
@@ -283,59 +288,74 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e94ad7544e0e0f741a13b63195846254, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cardNum: 0
-  Cards:
-  - cartaElemento:
-    - {fileID: 5379425861835240408, guid: c5e26ccf2eebafa49b56026ff605c4f5, type: 3}
-    - {fileID: 2004628253995847843, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
-    - {fileID: 1181026628215318579, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
-    - {fileID: 5052954973115172048, guid: e5a62baab2de40b46b70ce350c8e5716, type: 3}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  - cartaElemento:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-  cardOnGame: {fileID: 1723876969}
+  ColorsCard: {fileID: 1833812272}
+  colorTest: {fileID: 2100000, guid: bc41dc5a519000546946e1e04426179c, type: 2}
+  arma: {fileID: 603977744}
+  armatest: {fileID: 6163804549734048969, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
+--- !u!1001 &1362570627
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 302842897407431582, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_Name
+      value: Carta dorada espada corta
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5032742
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9999989
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.0014485924
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3042190288967690966, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 5734043071549274785, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9163009362344009537, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8647412758112946472, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+  m_SourcePrefab: {fileID: 100100000, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
 --- !u!1 &1564534573
 GameObject:
   m_ObjectHideFlags: 0
@@ -422,13 +442,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1564534573}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 72.43, y: 2.42, z: 7.68}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.97, y: 1.53, z: 3.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1564534577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -473,37 +493,11 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
---- !u!1 &1723876969
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+--- !u!23 &1833812272 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 5324697086689478733, guid: 780ad0a295a909f43a1e4e9e009f62fa, type: 3}
+  m_PrefabInstance: {fileID: 1362570627}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1723876970}
-  m_Layer: 0
-  m_Name: 'Cata de prueba '
-  m_TagString: Untagged
-  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1723876970
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1723876969}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.356697, y: 8.9, z: -69.37122}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2958916068717662
 GameObject:
   m_ObjectHideFlags: 0
@@ -14171,4 +14165,4 @@ SceneRoots:
   - {fileID: 7693484123742187986}
   - {fileID: 250785437303513643}
   - {fileID: 950406596}
-  - {fileID: 1723876970}
+  - {fileID: 1362570627}

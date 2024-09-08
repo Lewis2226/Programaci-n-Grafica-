@@ -128,7 +128,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4211903448230120349, guid: be622519a8921b9439465831fab99c35, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 4861854061718485913, guid: be622519a8921b9439465831fab99c35, type: 3}
       propertyPath: m_LocalPosition.x
@@ -370,7 +370,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4712978648001543664, guid: 1bfd58a8a2bac9e44b4b67bd4b221a52, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -552,7 +552,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8266760873398593586, guid: ebb46607f0c46fc4bb2f9246fa68b559, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -569,7 +569,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 310665433208995081, guid: ff0a4a0beb696d448ad799ea5fa03f5a, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 2443339572717961634, guid: ff0a4a0beb696d448ad799ea5fa03f5a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -674,7 +674,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8562806889291172339, guid: a0d8c301d3c9eca45827a7a7586e1db1, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -735,7 +735,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8695756005134628731, guid: 28d3e215b0081494a8425ec0b89cde34, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -752,7 +752,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2432946857533900151, guid: 7db6671efd0955e4ca636e59965bc5c7, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 7807139841210506221, guid: 7db6671efd0955e4ca636e59965bc5c7, type: 3}
       propertyPath: m_Name
@@ -857,7 +857,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6585762725935704547, guid: f77dca01c2f2acb47b0e332b8bd0ca7b, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -918,7 +918,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9214891559775758706, guid: 43b2a5f93e2684242aff73751a62d686, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -975,7 +975,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2705241428121359077, guid: 396c8a7424dd43e49855fa9f263e3dfc, type: 3}
       propertyPath: m_Name
-      value: 'Lanza '
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 8011458461395665385, guid: 396c8a7424dd43e49855fa9f263e3dfc, type: 3}
       propertyPath: m_Name

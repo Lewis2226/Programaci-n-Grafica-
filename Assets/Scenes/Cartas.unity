@@ -335,7 +335,7 @@ MonoBehaviour:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
-  cardOnGame: {fileID: 0}
+  cardOnGame: {fileID: 1723876969}
 --- !u!1 &1564534573
 GameObject:
   m_ObjectHideFlags: 0

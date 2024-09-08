@@ -15,11 +15,16 @@ public class CardController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        cardOnGame =  Cards[0].cartaElemento[cardNum];
-        if (cardOnGame != null )
+        if (Input.GetKeyDown(KeyCode.A))
         {
-            Debug.Log("esto funciona");
+            ShowCard();
         }
+    }
+
+    public void ShowCard()
+    {
+        GameObject temp = Cards[0].cartaElemento[cardNum];
+        Instantiate(temp, cardOnGame.transform.position, Quaternion.Euler(0,180,0));
     }
     
 }

@@ -118,7 +118,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &37774503
+--- !u!1001 &48992468
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -126,61 +126,124 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 2916730902989540823, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
+      propertyPath: m_Name
+      value: Carta espectral mandoble
+      objectReference: {fileID: 0}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 62.51
+      value: 63.074028
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5
+      value: 6.456656
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6089037635303711219, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - target: {fileID: 7421634799946245033, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7775963151137533890, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
-      propertyPath: m_Name
-      value: Carta luz kunai (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1114400093750815626, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 3157730289830386021, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 5981161505205655976, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5080917740920883483, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: c03a532d3272998499e912581a9ae8f1, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: fb3e58c49f98d4945b09bd7595a33e34, type: 3}
+--- !u!1001 &82292743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2004628253995847843, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_Name
+      value: Carta veneno mandoble
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 87.504265
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.3845115
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999989
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0014485924
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3604188086042901302, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8343022171964738880, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 1202453277811383168, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+  m_SourcePrefab: {fileID: 100100000, guid: 94d7fc2707d52f440ab8ab0cc4199804, type: 3}
 --- !u!1 &319879931
 GameObject:
   m_ObjectHideFlags: 0
@@ -302,7 +365,7 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1001 &612601300
+--- !u!1001 &835089368
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -310,62 +373,62 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1644545190708960374, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
-      propertyPath: m_Name
-      value: Carta encantada kunai (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 70.75
+      value: 83.28648
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5000002
+      value: 6.3289566
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5554260193901625584, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - target: {fileID: 1326934375459927593, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2566384955835151941, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
+      propertyPath: m_Name
+      value: 'Carta hielo mandoble '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8701096717728490631, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 9097433731637969791, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 6620941581865014974, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 3020362588822067928, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: d197b64ae28992d4eaf7523ec24596ea, type: 3}
---- !u!1001 &738803454
+  m_SourcePrefab: {fileID: 100100000, guid: 1b397b04c9f7ef540b400a7dc7b4ad5e, type: 3}
+--- !u!1001 &1041179166
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -373,47 +436,47 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1181026628215318579, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 3019832076608365022, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_Name
-      value: Carta veneno kunai (1)
+      value: Carta encantada mandoble
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 79.13
+      value: 78.97549
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5000002
+      value: 6.3676524
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1402752620709167557, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - target: {fileID: 5182637066101094339, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
@@ -421,14 +484,14 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5648932133442491667, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 1014844967900601199, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 217210462278289940, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5591915549341622324, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: 797f0259705d6ac409bcc231d1568fe8, type: 3}
---- !u!1001 &762122920
+  m_SourcePrefab: {fileID: 100100000, guid: cab8e56194aea884ebc343dfedf41857, type: 3}
+--- !u!1001 &1048983559
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -436,62 +499,62 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 75
+      value: 67.01977
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5000002
+      value: 6.4565415
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 894190759818693820, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 293694073737649465, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5261457102526148789, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - target: {fileID: 1908957160627421992, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       propertyPath: m_Name
-      value: Carta hielo kunai (1)
+      value: Carta materia oscura mandoble
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4835579990438143920, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 5037226271262441093, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 6530685059012308619, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 812414702617464507, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: dc65759d27daad845a15fbdd4cf73f24, type: 3}
---- !u!1001 &847739920
+  m_SourcePrefab: {fileID: 100100000, guid: 0dbcb1d24f340b8428e5471fcad28cd5, type: 3}
+--- !u!1001 &1206451788
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -499,47 +562,47 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1334235683872094981, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 2216245640561410450, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_Name
-      value: Carta materia oscura kunai (1)
+      value: Carta especial  mandoble
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 58.54
+      value: 55.393482
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5000002
+      value: 6.434759
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7437549319502486782, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - target: {fileID: 3048832928054639175, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
@@ -547,14 +610,14 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5563159947224754223, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 8581805946332041830, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 7568617278567349617, guid: 27de5500965ca114f990d664abfc048c, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 850449184888634156, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: 27de5500965ca114f990d664abfc048c, type: 3}
---- !u!1001 &1080337817
+  m_SourcePrefab: {fileID: 100100000, guid: 853f7b60b6ead634bb464b39ab032f0a, type: 3}
+--- !u!1001 &1294656170
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -562,254 +625,61 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4852270938800597313, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
-      propertyPath: m_Name
-      value: Carta espectral kunai (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 54.54
+      value: 59.26591
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5000002
+      value: 6.4557796
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9186432173494828753, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - target: {fileID: 401979746530895445, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 615944821232094974, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
+      propertyPath: m_Name
+      value: Carta slime mandoble
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2556082602138585655, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 248820951238122282, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 6120407244038354828, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 2428665161929253648, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: 9db9619dbe7a1bb4a9c23f551a4988fc, type: 3}
---- !u!1001 &1093578757
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 66.68
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.49
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9999989
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0014485924
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -0.166
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721537642448889553, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6766763097341651043, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      propertyPath: m_Name
-      value: Carta dorada kunai (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5690312839659883906, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 5260734644499978126, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: 1f182b3e5bc6b3946b0d38f2aced133a, type: 3}
---- !u!1001 &1285677459
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 50.57
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.49
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9999989
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0014485924
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -0.166
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3230492213317407798, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9073841600286932964, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      propertyPath: m_Name
-      value: Carta slime kunai (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3588914909979848245, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 545556691135173449, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: 0e38c6542a2201e40afb62a060f03164, type: 3}
---- !u!1001 &1297610965
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 42.66
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.49
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9999989
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.0014485924
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -0.166
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1475835815303744593, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5227961208650166010, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 8937955770753162906, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      propertyPath: m_Name
-      value: Carta especial  (1) kunai (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5531196210357753141, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 191927013228970022, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: ec9ebcadb2e182946aad0357a8ba1dd5, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: a64928978e9a21148baf0de58e1c0072, type: 3}
 --- !u!1 &1564534573
 GameObject:
   m_ObjectHideFlags: 0
@@ -947,7 +817,7 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
---- !u!1001 &1815841182
+--- !u!1001 &1578793468
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -955,61 +825,187 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 46.56
+      value: 51.483337
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.5000002
+      value: 6.59287
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9999989
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.0014485924
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -0.166
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6476437382747292582, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 3487674638800234912, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7426862380086624710, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - target: {fileID: 4709824775148984552, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       propertyPath: m_Name
-      value: Carta especial  kunai (1)
+      value: Carta especial  (1) mandoble
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8803225444763916469, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 6887473432112801665, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 7185100040323305090, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 7386268046605512472, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-  m_SourcePrefab: {fileID: 100100000, guid: 96a725e12ddb48648b3cc9a454c9879c, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 65a3a6525092ca44e9cf1b0d89b89055, type: 3}
+--- !u!1001 &1614570493
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.01279
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.343171
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999989
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0014485924
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2986355739780415800, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9047017241171237290, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      propertyPath: m_Name
+      value: Carta dorada mandoble
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3905410943781713530, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 5305053105514720519, guid: d818a9e3b124c04478122322096293d3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+  m_SourcePrefab: {fileID: 100100000, guid: d818a9e3b124c04478122322096293d3, type: 3}
+--- !u!1001 &2056905142
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5462415427387327076, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_Name
+      value: 'Carta luz mandoble '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 70.97407
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.456251
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999989
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0014485924
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8508517946295493750, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2548776999396415996, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 1463007280109324263, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+  m_SourcePrefab: {fileID: 100100000, guid: 7ea6cd56e6a885e4b82cada8690f1bf2, type: 3}
 --- !u!1 &2958916068717662
 GameObject:
   m_ObjectHideFlags: 0
@@ -14676,13 +14672,13 @@ SceneRoots:
   - {fileID: 1545041406452747335}
   - {fileID: 7693484123742187986}
   - {fileID: 250785437303513643}
-  - {fileID: 738803454}
-  - {fileID: 762122920}
-  - {fileID: 612601300}
-  - {fileID: 1093578757}
-  - {fileID: 37774503}
-  - {fileID: 847739920}
-  - {fileID: 1080337817}
-  - {fileID: 1285677459}
-  - {fileID: 1815841182}
-  - {fileID: 1297610965}
+  - {fileID: 82292743}
+  - {fileID: 835089368}
+  - {fileID: 1041179166}
+  - {fileID: 1614570493}
+  - {fileID: 2056905142}
+  - {fileID: 1048983559}
+  - {fileID: 48992468}
+  - {fileID: 1294656170}
+  - {fileID: 1206451788}
+  - {fileID: 1578793468}

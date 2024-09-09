@@ -221,16 +221,16 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1621296860650814782}
   m_LocalRotation: {x: -0, y: -0.7071067, z: -0.7071069, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.021261001}
-  m_LocalScale: {x: 0.0010000006, y: 0.001, z: 0.008000006}
+  m_LocalPosition: {x: 0, y: 0, z: 0.021496}
+  m_LocalScale: {x: 0.0010354007, y: 0.0010354001, z: 0.008283206}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8792888542640464685}
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.006185055, y: -0.02240014}
-  m_SizeDelta: {x: 8.7592, y: 2.4932}
+  m_AnchoredPosition: {x: 0.006239, y: -0.0224}
+  m_SizeDelta: {x: 8.201486, y: 2.00478}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &7172139192692124186
 MeshRenderer:
@@ -297,7 +297,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Test
+  m_text: Mazo venenoso
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -324,8 +324,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -570,7 +570,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3960839627150280847}
   m_LocalRotation: {x: -0, y: -0.7071067, z: -0.7071069, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0155}
+  m_LocalPosition: {x: 0, y: 0, z: 0.012488}
   m_LocalScale: {x: 0.0009999998, y: 0.001, z: 0.008808632}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -578,8 +578,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -0.025121465}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: 0.00011, y: -0.02512}
+  m_SizeDelta: {x: 28.59439, y: 15.82814}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &3847556330081661707
 MeshRenderer:
@@ -646,7 +646,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hola que hace '
+  m_text: "Est\xE1 ba\xF1ado con un veneno altamente peligroso, intenta usarlo siempre
+    con guantes si valoras tu vida.  Se cree que fue portado por Skjoll\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -673,8 +674,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -918,7 +919,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 79.13, y: 2.5032742, z: 1.9361589}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.053, y: 1.053, z: 1.053}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 759739561404134551}
@@ -1380,27 +1381,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.6891111
+      value: 0.664751
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.6891111
+      value: 0.664751
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.6891111
+      value: 0.664751
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.0013042
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.72
+      value: 0.71989
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.01
+      value: 1.0017
       objectReference: {fileID: 0}
     - target: {fileID: 1234691410439878500, guid: b1a204e272a904f4b9ddfefa35140538, type: 3}
       propertyPath: m_LocalRotation.w

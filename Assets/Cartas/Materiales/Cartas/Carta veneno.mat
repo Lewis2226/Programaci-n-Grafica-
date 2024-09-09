@@ -65,6 +65,6 @@ Material:
     - _distortion: 15.2
     - _offest: 3.35
     m_Colors:
-    - _Color: {r: 0.37005934, g: 0.6855345, b: 0.1746172, a: 1}
+    - _Color: {r: 0.18502967, g: 0.34276724, b: 0.0873086, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

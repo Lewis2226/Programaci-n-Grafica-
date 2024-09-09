@@ -566,7 +566,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4883816466951044342}
   m_LocalRotation: {x: -0, y: -0.7071067, z: -0.7071069, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0155}
+  m_LocalPosition: {x: 0, y: 0, z: 0.012679}
   m_LocalScale: {x: 0.0009999998, y: 0.001, z: 0.008808632}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -574,8 +574,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -0.025121465}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: 0.0002, y: -0.0251}
+  m_SizeDelta: {x: 28.197868, y: 15.03962}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &7771797819209256753
 MeshRenderer:
@@ -642,7 +642,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hola que hace '
+  m_text: "Est\xE1 hecho con un tipo de hielo especial, se te pueden congelar las
+    manos al usarlo.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -669,8 +670,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -828,7 +829,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 75, y: 2.5032742, z: 1.9361589}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.053, y: 1.053, z: 1.053}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2500649910867615387}
@@ -1130,7 +1131,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8322132677633125708}
   m_LocalRotation: {x: -0, y: -0.7071067, z: -0.7071069, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.021261001}
+  m_LocalPosition: {x: 0, y: 0, z: 0.021938}
   m_LocalScale: {x: 0.0010000006, y: 0.001, z: 0.008000006}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1138,8 +1139,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.006185055, y: -0.02240014}
-  m_SizeDelta: {x: 8.7592, y: 2.4932}
+  m_AnchoredPosition: {x: 0.0068, y: -0.0224}
+  m_SizeDelta: {x: 8.047345, y: 2.0366}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &7127108953156769416
 MeshRenderer:
@@ -1206,7 +1207,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Test
+  m_text: Mazo helado
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1233,8 +1234,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1408,27 +1409,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.6891111
+      value: 0.67083585
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.6891111
+      value: 0.67083585
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.6891111
+      value: 0.67083585
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.00060861
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.75
+      value: 0.7496
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.63
+      value: 0.62505
       objectReference: {fileID: 0}
     - target: {fileID: 4939545632267837996, guid: f24bfe856d515534ea30015d4b6a19c9, type: 3}
       propertyPath: m_LocalRotation.w

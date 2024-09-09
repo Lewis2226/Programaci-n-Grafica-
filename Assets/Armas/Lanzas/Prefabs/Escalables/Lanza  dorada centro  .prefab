@@ -105,7 +105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3266980267464201737, guid: c38916e9421910648a499bac348cae82, type: 3}
       propertyPath: m_Name
-      value: Lanza Dorada
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

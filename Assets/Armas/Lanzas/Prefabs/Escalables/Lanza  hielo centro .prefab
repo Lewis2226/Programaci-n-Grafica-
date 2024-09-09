@@ -65,7 +65,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4873277489870907467, guid: dd78737e0325c7442ba4b7976af57930, type: 3}
       propertyPath: m_Name
-      value: Lanza Hielo
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 6849668213763607071, guid: dd78737e0325c7442ba4b7976af57930, type: 3}
       propertyPath: m_LocalPosition.x

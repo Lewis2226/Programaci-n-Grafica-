@@ -65,7 +65,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7275591457027170496, guid: f55efc08fd4091a4fb427037153baea4, type: 3}
       propertyPath: m_Name
-      value: Lanza Encantada
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 7901499415632463386, guid: f55efc08fd4091a4fb427037153baea4, type: 3}
       propertyPath: m_LocalPosition.x

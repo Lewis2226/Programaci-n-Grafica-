@@ -105,7 +105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1653142077061959684, guid: 5ae2c273a0dc333439218fb73e173e7e, type: 3}
       propertyPath: m_Name
-      value: 'Lanza Fuego (Especial) '
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

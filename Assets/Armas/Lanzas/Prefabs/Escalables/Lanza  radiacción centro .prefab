@@ -65,7 +65,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4067530062795452032, guid: 2b2e775ba260f364e959ec2f26109c37, type: 3}
       propertyPath: m_Name
-      value: Lanza Radiaccion (especial2)
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 9071954783522561862, guid: 2b2e775ba260f364e959ec2f26109c37, type: 3}
       propertyPath: m_LocalPosition.x

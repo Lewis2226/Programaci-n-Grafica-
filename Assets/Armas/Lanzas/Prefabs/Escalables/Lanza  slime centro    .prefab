@@ -105,7 +105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4452608695649297599, guid: 1511729d300e6574c87a7f6cd2ea2de7, type: 3}
       propertyPath: m_Name
-      value: Lanza Slime
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -65,7 +65,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 152934143374026424, guid: e1a688ba89911f54e964b30a45f071c4, type: 3}
       propertyPath: m_Name
-      value: Lanza Luz
+      value: Lanza
       objectReference: {fileID: 0}
     - target: {fileID: 1201963046960212326, guid: e1a688ba89911f54e964b30a45f071c4, type: 3}
       propertyPath: m_LocalPosition.x

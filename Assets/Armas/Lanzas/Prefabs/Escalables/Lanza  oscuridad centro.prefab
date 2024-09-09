@@ -105,7 +105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8274716949771513591, guid: af3205ff71ecd3440ba5a4786e406d90, type: 3}
       propertyPath: m_Name
-      value: Lanza materia oscura
+      value: Lanza
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

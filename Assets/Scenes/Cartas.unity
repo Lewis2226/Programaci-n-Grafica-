@@ -16677,7 +16677,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hola que hace '
+  m_text: 'Era la katana de una diosa pero actualmente ni idea de que paso con la
+    diosa. Hecho por Karime Nieto
+
+    
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -16704,8 +16709,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -18327,7 +18332,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1932105313583291429
 GameObject:
   m_ObjectHideFlags: 0
@@ -18594,7 +18599,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &2143090721847974009
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21065,7 +21070,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &3588966853894956223
 GameObject:
   m_ObjectHideFlags: 0
@@ -21818,7 +21823,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &4312850601960323532
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23837,7 +23842,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6060026860054550837
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23877,7 +23882,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Test
+  m_text: 'Katana de rosas
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23904,8 +23911,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24219,7 +24226,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6304369730385693563
 Transform:
   m_ObjectHideFlags: 0
@@ -24369,7 +24376,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6381919707266505398
 Transform:
   m_ObjectHideFlags: 0
@@ -25942,7 +25949,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &7374151071745770048
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26976,7 +26983,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4617640730204514401}
   m_LocalRotation: {x: -0, y: -0.7071067, z: -0.7071069, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0155}
+  m_LocalPosition: {x: 0, y: 0, z: 0.013091}
   m_LocalScale: {x: 0.0009999998, y: 0.001, z: 0.008808632}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -26984,8 +26991,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -0.025121465}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: 0.000445, y: -0.02512}
+  m_SizeDelta: {x: 25.922958, y: 14.61216}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8026571805721658425
 GameObject:
@@ -27779,7 +27786,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &8432361287433185520
 GameObject:
   m_ObjectHideFlags: 0
@@ -28215,7 +28222,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &8918029911509317349
 GameObject:
   m_ObjectHideFlags: 0

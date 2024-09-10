@@ -5030,7 +5030,7 @@ PrefabInstance:
     - target: {fileID: -678588488315902003, guid: cecb0d17181addc49a9eb9c96b129f29, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 81c1860e7800e5340bf8a54c565ba9ea, type: 2}
+      objectReference: {fileID: 2100000, guid: 9b8eadc4de0544646b75ddcc43f8fd06, type: 2}
     - target: {fileID: 919132149155446097, guid: cecb0d17181addc49a9eb9c96b129f29, type: 3}
       propertyPath: m_Name
       value: inosukehielo
@@ -5118,7 +5118,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 75c357e0215b31e41955c3153b7234f4, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4dad30bbe2213eb4d8312f7bb6190866, type: 2}
+      objectReference: {fileID: 2100000, guid: 801db2d997a562b4ea333aa4593ce0f0, type: 2}
     - target: {fileID: -1461304994638716399, guid: 75c357e0215b31e41955c3153b7234f4, type: 3}
       propertyPath: m_Materials.Array.size
       value: 2
@@ -5134,7 +5134,7 @@ PrefabInstance:
     - target: {fileID: -804731622281664130, guid: 75c357e0215b31e41955c3153b7234f4, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: e745492728544aa488aa0429b6068e71, type: 2}
+      objectReference: {fileID: 2100000, guid: e93789f0a5d66df4a81613935579642b, type: 2}
     - target: {fileID: 919132149155446097, guid: 75c357e0215b31e41955c3153b7234f4, type: 3}
       propertyPath: m_Name
       value: rengoku
@@ -39822,7 +39822,7 @@ PrefabInstance:
     - target: {fileID: -2951372444202162992, guid: 183cdfb063f848e47bd615726f73cf87, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: bd2d742ee2ce7a740ae0cf992a38be74, type: 2}
+      objectReference: {fileID: 2100000, guid: e93789f0a5d66df4a81613935579642b, type: 2}
     - target: {fileID: 919132149155446097, guid: 183cdfb063f848e47bd615726f73cf87, type: 3}
       propertyPath: m_Name
       value: katanaslime
@@ -39838,7 +39838,7 @@ PrefabInstance:
     - target: {fileID: 8773452785458587493, guid: 183cdfb063f848e47bd615726f73cf87, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 3da4aad06945bbf4baf801c2aacbc01e, type: 2}
+      objectReference: {fileID: 2100000, guid: e93789f0a5d66df4a81613935579642b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 6533569618525319088, guid: 183cdfb063f848e47bd615726f73cf87, type: 3}
@@ -79292,6 +79292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: katanamateriaoscura (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1f0e3dd038fb1b447a92a5020f5fedd6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6816716869229761188, guid: 1f0e3dd038fb1b447a92a5020f5fedd6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -89068,7 +89072,7 @@ PrefabInstance:
     - target: {fileID: -1461304994638716399, guid: cecb0d17181addc49a9eb9c96b129f29, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 81c1860e7800e5340bf8a54c565ba9ea, type: 2}
+      objectReference: {fileID: 2100000, guid: 801db2d997a562b4ea333aa4593ce0f0, type: 2}
     - target: {fileID: -678588488315902003, guid: cecb0d17181addc49a9eb9c96b129f29, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
